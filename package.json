@@ -1,0 +1,22 @@
+{
+  "name": "jsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azfar-Sphere/jsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azfar-Sphere/jsProject/issues"
+  },
+  "homepage": "https://github.com/Azfar-Sphere/jsProject#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
